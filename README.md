@@ -1,4 +1,4 @@
-# https://stepik.org/
+# [Stepik](https://stepik.org/)
 
 ## "Поколение Python": курс для начинающих
 
