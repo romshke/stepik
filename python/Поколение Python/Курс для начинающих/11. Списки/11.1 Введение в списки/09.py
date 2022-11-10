@@ -1,0 +1,1 @@
+print(list(chr(_) for _ in range(ord('a'), ord('a') + int(input()))))
