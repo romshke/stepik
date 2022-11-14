@@ -1,0 +1,1 @@
+print(*(int(_)**2 for _ in input().split() if int(_)**2 % 2 == 0 and str(int(_)**2)[-1] != '4'))

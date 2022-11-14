@@ -1,0 +1,1 @@
+print(*(_ for _ in input().split()), sep='\n')

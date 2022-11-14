@@ -1,0 +1,1 @@
+print(*(_ for _ in input() if _.isdigit()), sep='')

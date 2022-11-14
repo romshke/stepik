@@ -1,0 +1,1 @@
+print(*list('+' * int(_) for _ in input().split()), sep='\n')

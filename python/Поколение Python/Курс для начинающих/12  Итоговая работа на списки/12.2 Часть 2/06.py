@@ -1,0 +1,1 @@
+print(*[(_[1:] + _[0] + 'ки') for _ in input().split()])
