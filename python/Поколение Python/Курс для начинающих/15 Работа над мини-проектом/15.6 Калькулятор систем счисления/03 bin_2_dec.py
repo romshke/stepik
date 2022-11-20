@@ -1,0 +1,1 @@
+print(sum(int(_)*(2**i) for i, _ in enumerate(input()[::-1])))
