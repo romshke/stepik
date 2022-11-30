@@ -1,0 +1,1 @@
+print('NO' if set(map(int, set(input()))).isdisjoint(set(map(int, set(input())))) else 'YES')

@@ -1,0 +1,1 @@
+print('YES' if set(map(int, set(input()))) > set(map(int, set(input()))) else 'NO')
