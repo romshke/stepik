@@ -1,0 +1,1 @@
+print(*(number for number in range(int(input()), int(input()) + 1) if not '0' in str(number) and all([number % int(_) == 0 for _ in str(number)])))

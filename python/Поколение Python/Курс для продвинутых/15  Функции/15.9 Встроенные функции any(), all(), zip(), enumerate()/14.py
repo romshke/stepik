@@ -1,0 +1,1 @@
+print('YES' if all([any([int(input()[-1]) == 5 for j in range(int(input()))]) for i in range(int(input()))]) else 'NO')
