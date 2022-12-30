@@ -1,0 +1,1 @@
+print(''.join([str(_) for _ in range(1, 200000)])[int(input()) - 1])
